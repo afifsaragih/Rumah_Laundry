@@ -1,3 +1,5 @@
+![WhatsApp Image 2024-05-19 at 23 32 46](https://github.com/afifsaragih/Rumah_Laundry/assets/145025741/b7bbb2cd-3377-479e-87ef-21ef38438363)
+
 Aplikasi RumahLaundry adalah sebuah sistem informasi berbasis web yang dirancang khusus untuk 
 mengelola operasi sehari-hari dari usaha laundry. Aplikasi ini hanya dapat digunakan oleh satu 
 pengguna saja, yaitu admin atau pemilik usaha laundry. RumahLaundry menyediakan berbagai fitur 
@@ -19,5 +21,3 @@ AFIF AMARRANDA SARAGIH	             22050974112
 MELLANDA KURNIAWATI	             22050974116
 
 URL Link Prodi: https://pendidikan-ti.ft.unesa.ac.id/
-
-![WhatsApp Image 2024-05-19 at 23 32 46](https://github.com/afifsaragih/Rumah_Laundry/assets/145025741/b7bbb2cd-3377-479e-87ef-21ef38438363)
