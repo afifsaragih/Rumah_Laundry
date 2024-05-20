@@ -1,17 +1,23 @@
-<h1> LANGKAH DAN CARA INSTALASI WEB RUMAH LANDRY </h1>
+Aplikasi RumahLaundry adalah sebuah sistem informasi berbasis web yang dirancang khusus untuk 
+mengelola operasi sehari-hari dari usaha laundry. Aplikasi ini hanya dapat digunakan oleh satu 
+pengguna saja, yaitu admin atau pemilik usaha laundry. RumahLaundry menyediakan berbagai fitur 
+yang memudahkan admin dalam mengelola pesanan, stok, transaksi, serta pengelolaan data 
+karyawan.
+Actor yang Terlibat:
+- Admin: Pengguna tunggal aplikasi yang memiliki akses penuh untuk mengelola semua 
+aspek dari usaha laundry.
+Tujuan pembuatan sistem ini adalah untuk meningkatkan efisiensi dan produktivitas dalam 
+pengelolaan usaha laundry. Dengan menggunakan RumahLaundry, admin dapat mengelola 
+operasional laundry dengan lebih mudah dan efektif, mulai dari menerima pesanan hingga mengatur 
+jadwal pengantaran.
 
-- setelah download. extract file zip yang sudah didownload. masukkan kedalam satu folder. dan beri nama rumah_laundry.
-- copy atau cut folder rumah_laundry ke xampp/htdocs/ kemudian paste.
 
-- langkah instalasi
-1. Aktifkan web server bisa menggunakan LAMP, XAMPP, WAMPP, dll.
-	Lalu aktifkan apache dan mysql.
-2. Buka web browser, ketikkan localhost/phpmyadmin pada address bar.
-3. Buat sebuah database dengan nama laundry_app.
-4. Setelah database dibuat, klik database laundry_app.
-5. Import file sql dengan cara klik menu/tab impor pada bagian atas phpmyadmin.
-6. klik Choose file, lalu cari file laundry_app.sql yang sudah disediakan, terakhir klik tombol kirim/go (scroll ke bawah).
-7. Buka tab baru pada web browser kemudian ketikkan localhost/rumah_laundry/
-8. Terakhir, login terlebih dahulu isi username dan password:
-   username: admin
-   password: admin
+Nama Anggota Kelompok : 
+RANI NUR RAHMAWATI		22050974087
+RYAN PRASETYO			22050974094
+AFIF AMARRANDA SARAGIH	             22050974112
+MELLANDA KURNIAWATI	             22050974116
+
+URL Link Prodi: https://pendidikan-ti.ft.unesa.ac.id/
+
+![WhatsApp Image 2024-05-19 at 23 32 46](https://github.com/afifsaragih/Rumah_Laundry/assets/145025741/b7bbb2cd-3377-479e-87ef-21ef38438363)
